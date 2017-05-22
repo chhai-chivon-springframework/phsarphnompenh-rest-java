@@ -1,4 +1,4 @@
-package com.phsarphnompenh.configurations;
+package com.phsarphnompenh.api.configurations;
 
 import org.springframework.context.annotation.Configuration;
 

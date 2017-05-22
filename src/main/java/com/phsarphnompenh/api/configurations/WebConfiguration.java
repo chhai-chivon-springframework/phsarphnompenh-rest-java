@@ -1,4 +1,4 @@
-package com.phsarphnompenh.configurations;
+package com.phsarphnompenh.api.configurations;
 
 import org.mybatis.spring.SqlSessionFactoryBean;
 import org.mybatis.spring.annotation.MapperScan;
