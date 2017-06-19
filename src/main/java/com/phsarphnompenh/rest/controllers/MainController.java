@@ -1,4 +1,4 @@
-package com.phsarphnompenh.api.controllers;
+package com.phsarphnompenh.rest.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

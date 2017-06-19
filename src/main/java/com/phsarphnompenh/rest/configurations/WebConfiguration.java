@@ -1,4 +1,4 @@
-package com.phsarphnompenh.api.configurations;
+/*package com.phsarphnompenh.rest.configurations;
 
 import org.mybatis.spring.SqlSessionFactoryBean;
 import org.mybatis.spring.annotation.MapperScan;
@@ -12,7 +12,7 @@ import org.springframework.jdbc.datasource.DriverManagerDataSource;
 import javax.sql.DataSource;
 
 @Configuration
-@MapperScan({ "com.phsarphnompenh.repositories" })
+@MapperScan({ "com.phsarphnompenh.rest.repositories" })
 @PropertySource(value = { "classpath:configuration.properties" })
 public class WebConfiguration {
 	
@@ -41,3 +41,4 @@ public class WebConfiguration {
 		return sessionFactory;
 	}
 }
+*/

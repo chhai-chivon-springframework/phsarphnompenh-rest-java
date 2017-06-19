@@ -1,4 +1,4 @@
-package com.phsarphnompenh.api;
+package com.phsarphnompenh.rest;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
